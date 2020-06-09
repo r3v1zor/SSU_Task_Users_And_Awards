@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_SSU_Task_Users_And_Awards.2116329733.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BLL" t="IncludeRecursive">
+        <e p="AwardsBlo.cs" t="Include" />
+        <e p="BLL.csproj" t="IncludeRecursive" />
+        <e p="IAwardsBlo.cs" t="Include" />
+        <e p="IUsersBlo.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="UsersBlo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="DAL" t="IncludeRecursive">
+        <e p="AwardsDao.cs" t="Include" />
+        <e p="DAL.csproj" t="IncludeRecursive" />
+        <e p="IAwardsDao.cs" t="Include" />
+        <e p="IUsersDao.cs" t="Include" />
+        <e p="InMemoryAwardsDal.cs" t="Include" />
+        <e p="InMemoryUsersDal.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="UsersDao.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+      </e>
+      <e p="Models" t="IncludeRecursive">
+        <e p="Award.cs" t="Include" />
+        <e p="Models.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="User.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="PL" t="IncludeRecursive">
+        <e p="AppStarter.cs" t="Include" />
+        <e p="PL.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="application.properties" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="help.txt" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="SSU_Task_Users_And_Awards.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
